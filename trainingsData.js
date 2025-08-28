@@ -1,8 +1,8 @@
 const trainingsData = [
   {
     "id": 1,
-    "header": "Philippine Startup Challenge",
-    "subheader": "DICT's HackforGov Competition",
+    "header": "DICT's HackforGov Competition",
+    "subheader": "Philippine Startup Challenge",
     "company": "DICT Region 02 - Cagayan Valley",
     "context": "The competition is open to all senior high school, college and university students and must be: Under 25 years of age and currently enrolled.",
     "description": [
@@ -22,8 +22,8 @@ const trainingsData = [
   },
   {
     "id": 2,
-    "header": "Philippine Startup Challenge",
-    "subheader": "DICT's HackforGov Competition",
+    "header": "DICT's HackforGov Competition",
+    "subheader": "Philippine Startup Challenge",
     "company": "DICT Region 11",
     "context": "The competition is open to all senior high school, college and university students and must be: Under 25 years of age and currently enrolled.",
     "description": [
@@ -44,10 +44,10 @@ const trainingsData = [
   },
    {
     "id": 3,
-    "header": "Philippine Startup Challenge",
-    "subheader": "DICT's HackforGov Competition",
+    "header": "DICT's HackforGov Competition",
+    "subheader": "Philippine Startup Challenge",
     "company": "DICT Region IVB - Mimaropa",
-    "context": "he competition is open to all senior high school, college and university students and must be: Under 25 years of age and currently enrolled.",
+    "context": "The competition is open to all senior high school, college and university students and must be: Under 25 years of age and currently enrolled.",
     "description": [
       "Attention MIMAROPA students!",
       "Think you've got what it takes to dominate the cyber arena?",
@@ -60,6 +60,26 @@ const trainingsData = [
     "submissionDeadline": "",
     "eventDate": "",
     "link": "https://bit.ly/H4G2025-R4B-REGISTRATION",
+    "duration": "",
+    "category": "Hackathon",
+    "isNewlyAdded": true,
+    "capacity": 0,
+    "createdDate": "2025-08-29"
+  },
+  {
+    "id": 4,
+    "header": "DICT's HackforGov Competition",
+    "subheader": "Philippine Startup Challenge",
+    "company": "DICT Region 10",
+    "context": "The competition is open to all senior high school, college and university students and must be: Under 25 years of age and currently enrolled.",
+    "description": [
+      "The Philippine Startup Challenge X is BACK — and this time, the spotlight is on Northern Mindanao's game-changers!",
+      "For 10 years, PSC has turned bold student ideas into real-world impact. Now it's YOUR turn to create, pitch, and lead the next big innovation from Region 10.",
+    ],
+    "registrationDeadline": "2025-09-19",
+    "submissionDeadline": "",
+    "eventDate": "",
+    "link": "https://tinyurl.com/PSCX-Application-R10",
     "duration": "",
     "category": "Hackathon",
     "isNewlyAdded": true,
